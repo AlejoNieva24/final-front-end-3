@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Mandali&display=swap");
+.footer {
+  display: flex;
+  padding: 1rem;
+  align-items: center;
+  justify-content: center;
+}
+.footer p {
+  font-weight: bold;
+  font-family: "Mandali", sans-serif;
+}
+.footer svg {
+  margin: 0 0.5rem;
+  position: relative;
+  top: 2px;
+}/*# sourceMappingURL=Footer.module.css.map */

@@ -1,0 +1,35 @@
+.nav {
+  border-bottom: 2px solid rgba(0, 0, 255, 0.758);
+  padding: 2rem;
+  display: flex;
+  justify-content: space-between;
+  position: sticky;
+  top: 0;
+  z-index: 9;
+}
+
+.nav div {
+  display: flex;
+  align-items: center;
+}
+
+.nav div a {
+  font-weight: bolder;
+  font-size: 1.5rem;
+  text-align: center;
+  padding: 1rem;
+}
+
+.nav .direcciones {
+  width: 50%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.nav button {
+  padding: 1rem;
+  border-radius: 5rem;
+  border: none;
+  transition: 0.5s;
+}
