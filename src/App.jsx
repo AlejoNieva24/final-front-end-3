@@ -1,4 +1,4 @@
-
+import './Styles/index.css'
 import { Route, Routes } from "react-router";
 import Footer from "./Components/Footer";
 import Navbar from "./Components/Navbar";
